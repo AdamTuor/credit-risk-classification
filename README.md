@@ -30,6 +30,7 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 
 * Machine Learning Model 2:
   * The second model performed exactly the same on the healthy loans, but saw a significant increase on recall for high-risk loans. Precision went down slighly.
+
 |    | precision | recall | f1-score | support |
 |----|-----------|--------|----------|---------|
 |  0 |   1.00    |  0.99  |   1.00   |  18765  |
